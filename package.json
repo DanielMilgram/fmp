@@ -1,0 +1,19 @@
+{
+  "name": "fmp",
+  "version": "1.0.0",
+  "description": "findmeapartner CS411 project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMilgram/fmp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielMilgram/fmp/issues"
+  },
+  "homepage": "https://github.com/DanielMilgram/fmp#readme"
+}
